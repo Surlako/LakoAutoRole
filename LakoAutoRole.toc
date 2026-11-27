@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: LakoAutoRole
+## Notes: Automatically sets your Druid group role from your active Forever talents.
+## Author: Lako
+## Version: 1.0.0
+## SavedVariablesPerCharacter: LakoAutoRoleDB
+
+LakoAutoRole.lua
