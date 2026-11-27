@@ -1,15 +1,26 @@
 # LakoAutoRole
 
-World of Warcraft: Forever addon, version 1.0.0.
+World of Warcraft: Forever addon.
 
-## Download and install
+## Install with WowUp
 
-1. Download [LakoAutoRole v1.0.0](downloads/LakoAutoRole-v1.0.0.zip?raw=true).
-2. Close WoW and extract the ZIP.
-3. Copy the `LakoAutoRole` folder into your WoW Forever `Interface/AddOns/` folder.
-4. Start WoW and enable the addon.
+In WowUp, select your **WoW Forever** client, open **Get Addons → Install from URL**, and paste:
+
+https://github.com/Surlako/LakoAutoRole
+
+WowUp checks GitHub releases for updates. Right-click the addon and enable **Auto Update** if you want updates installed automatically.
+
+## Manual installation
+
+Download the latest **-forever.zip** from [Releases](https://github.com/Surlako/LakoAutoRole/releases/latest), close WoW, and copy the `LakoAutoRole` folder from the ZIP into `Interface/AddOns/`.
+
+## Updates
+
+Changes to addon files on the main branch automatically publish a new numbered GitHub release with an installable Forever ZIP. The packaged TOC version matches the release version. No extra release step is needed after a source update.
 
 ## Addon details
+
+The original addon instructions follow. For downloads and updates, use the methods above.
 
 ```text
 LakoAutoRole 1.0.0 - World of Warcraft: Forever
